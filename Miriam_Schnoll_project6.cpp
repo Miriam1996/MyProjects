@@ -1,3 +1,6 @@
+/*this project uses c++ map
+for the additional, subtraction, and multiplication of polynomials
+the key is the exponent and the value is the constant*/
 //Miriam Schnoll project 6
 #include <iostream>
 #include<map>
